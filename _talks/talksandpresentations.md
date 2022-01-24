@@ -17,8 +17,7 @@ CSE, March 2021
 
 Posters
 ======
-* Construction of High-Order Multirate IMEX Integrators for Large-Scale Complex Multiphysics Ap-
-plications, SIAM PP20, February 2020
+* Construction of High-Order Multirate IMEX Integrators for Large-Scale Complex Multiphysics Applications, SIAM PP20, February 2020
 * Comparison of High-Order Multirate Integrators, SIAM TX-LA Section Meeting, November 2019
 * Multirate Time Integration for Cloud Microphysics, Lawrence Livermore National Laboratory, August
 2019
