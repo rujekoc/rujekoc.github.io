@@ -7,7 +7,7 @@ author_profile: true
 Talks
 ======
 * Multirate IMEX Integrators for PDEs, ICERM Topical Workshop:Holistic Design of Time-Dependent
-PDE Discretizations, January 2021 (lightning talk)
+PDE Discretizations, January 2022 (lightning talk)
 * Flexible and accurate multirate time-stepping methods for differential equations, Applied Mathematics and Scientific Computing Seminar, Temple University, September 2021
 * Highly Accurate and Flexible Multirate Time-Stepping Methods for Multiphysics Applications, SIAM
 Annual Meeting, July 2021
