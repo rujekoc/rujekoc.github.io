@@ -7,6 +7,7 @@ author_profile: true
 ---
 You can also find my articles on [my Google Scholar profile.](https://scholar.google.com/citations?hl=en&user=MleoA6sAAAAJ)
 
+* D.R. Reynolds, D.J. Gardner, C.S. Woodward, **R. Chinomona**. ARKODE: A flexible IVP solver infrastructure for one-step methods. Submitted, 2022 [(arxiv)](https://arxiv.org/abs/2205.14077)
 
 * V.T. Luan, **R. Chinomona**, D.R. Reynolds. Multirate Exponential Rosenbrock Methods. Submitted, 2021 [(arxiv)](https://arxiv.org/abs/2106.05385)
 
