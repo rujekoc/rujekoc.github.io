@@ -6,6 +6,8 @@ author_profile: true
 ---
 Talks
 ======
+* Derivation of stability optimized IMEX-MRI-GARK methods, 2nd International Conference on Computational Methods and
+Applications in Engineering, May 2022 
 * Multirate IMEX Integrators for PDEs, ICERM Topical Workshop:Holistic Design of Time-Dependent
 PDE Discretizations, January 2022 (lightning talk)
 * Flexible and accurate multirate time-stepping methods for differential equations, Applied Mathematics and Scientific Computing Seminar, Temple University, September 2021
