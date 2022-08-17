@@ -11,6 +11,7 @@ author_profile: true
 Instructor
 ======
 * Temple University
+  * Fall 2022 : Numerical Analysis I (MATH 3043)
   * Spring 2022 : Mathematical Modeling and Simulation (MATH 2121)
   * Fall 2021 : Calculus II (MATH 1042)
 
