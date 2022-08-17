@@ -9,7 +9,7 @@ You can also find my articles on [my Google Scholar profile.](https://scholar.go
 
 * D.R. Reynolds, D.J. Gardner, C.S. Woodward, **R. Chinomona**. ARKODE: A flexible IVP solver infrastructure for one-step methods. Submitted, 2022 [(arxiv)](https://arxiv.org/abs/2205.14077)
 
-* V.T. Luan, **R. Chinomona**, D.R. Reynolds. Multirate Exponential Rosenbrock Methods. Submitted, 2021 [(arxiv)](https://arxiv.org/abs/2106.05385)
+* V.T. Luan, **R. Chinomona**, D.R. Reynolds. Multirate Exponential Rosenbrock Methods. Accepted - to appear in *SIAM J. Sci. Comput.*, 2022 [(arxiv)](https://arxiv.org/abs/2106.05385)
 
 
 * **R. Chinomona**, D.R. Reynolds. Implicit-Explicit Multirate Infinitesimal GARK Methods. *SIAM J. Sci. Comput.*, 43(5), A3082–A3113, 2021 [(published](https://doi.org/10.1137/20M1354349), [arxiv)](https://arxiv.org/abs/2007.09776)
